@@ -7,14 +7,17 @@ body {
   display: flex;
   width:100%;
   overflow:auto;
+  height: 100vh;
 }
 .left-div {
   flex: 0 0 20%; /* Shorthand for flex-grow, flex-shrink, flex-basis */
   padding: 10px;
+  height: 100vh;
 }
 .right-div {
   flex: 0 0 80%;
   padding: 10px;
+  height: 100vh;
 }
 .centered {
     width:auto;
