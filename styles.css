@@ -24,8 +24,9 @@ body {
   min-height: 100vh;
 }
 .right-div {
+  position: relative;
   top: 0;
-  right: 0;
+  left: 20%;
   flex: 0 0 80%;
   padding: 20px;
   height: fit-content;
