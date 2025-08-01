@@ -16,6 +16,7 @@ body {
 }
 .left-div {
   position: sticky;
+  top: 0;
   flex: 0 0 20%; /* Shorthand for flex-grow, flex-shrink, flex-basis */
   padding: 10px;
   height: fit-content;
