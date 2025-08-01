@@ -15,18 +15,13 @@ body {
   height: 100vh;
 }
 .left-div {
-  position: absolute;
-  top: 0;
-  left: 0;
+  position: sticky;
   flex: 0 0 20%; /* Shorthand for flex-grow, flex-shrink, flex-basis */
   padding: 10px;
   height: fit-content;
   min-height: 100vh;
 }
 .right-div {
-  position: relative;
-  top: 0;
-  left: 20%;
   flex: 0 0 80%;
   padding: 20px;
   height: fit-content;
