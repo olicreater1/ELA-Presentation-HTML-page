@@ -16,7 +16,7 @@ body {
 }
 .right-div {
   flex: 0 0 80%;
-  padding: 10px;
+  padding: 20px;
   height: 100vh;
 }
 .centered {
