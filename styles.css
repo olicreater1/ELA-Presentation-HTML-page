@@ -18,11 +18,13 @@ body {
   flex: 0 0 20%; /* Shorthand for flex-grow, flex-shrink, flex-basis */
   padding: 10px;
   height: fit-content;
+  min-height: 100vh;
 }
 .right-div {
   flex: 0 0 80%;
   padding: 20px;
   height: fit-content;
+  min-height: 100vh;
 }
 .centered {
     width:auto;
