@@ -4,7 +4,7 @@ body {
   font-family: 'Segoe UI', Arial, sans-serif;
 }
 .para-div {
-  width: 700vh;
+  width: 70vh;
   text-align: center;
   margin-right: auto;
   margin-left: auto;
@@ -14,7 +14,7 @@ body {
   display: flex;
   width:100%;
   overflow:auto;
-  height: 100vh;
+  height: 400vh;
 }
 .left-div {
   flex: 0 0 20%; /* Shorthand for flex-grow, flex-shrink, flex-basis */
